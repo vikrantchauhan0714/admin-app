@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "345673886600",
+    "firebase_url": "https://abes-engineering-college.firebaseio.com",
+    "project_id": "abes-engineering-college",
+    "storage_bucket": "abes-engineering-college.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345673886600:android:55ba54a47a265ec46de83d",
+        "android_client_info": {
+          "package_name": "com.example.admincollegeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345673886600-91v6ts6i6q53iuqqasrgb4tffv3hegh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3hRnaE5kNevR_Dqqq5ztoyihmxyUJkSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345673886600-91v6ts6i6q53iuqqasrgb4tffv3hegh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
